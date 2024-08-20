@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/PortfolioShanika">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
