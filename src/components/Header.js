@@ -77,6 +77,7 @@ const Header = () => {
         <Link style={styles.link} to="/about">About</Link>
         <Link style={styles.link} to="/projects">Projects</Link>
         <Link style={styles.link} to="/contact">Contact</Link>
+        <Link style={styles.link} to="/certificates">Certificates</Link>
         <button onClick={toggleDarkMode} style={styles.toggleButton}>
           {isDarkMode ? '🌞 Light Mode' : '🌙 Dark Mode'}
         </button>

@@ -13,10 +13,19 @@ const projects = [
    
   },
   {
+    title: 'Portfolio',
+    description: 'Developed a Protfolio website.',
+    technologies: 'React,js',
+    image: '/PortfolioShanika/images/portfolio.PNG',
+    github: 'https://shanika97.github.io/PortfolioShanika/'
+  },
+
+  {
     title: 'Photography Website',
     description: 'Developed a website for photography, including wedding packages and different function packages.',
     technologies: 'PHP, HTML, CSS, JS',
     image: '/PortfolioShanika/images/photography-website.png',
+    github: 'https://github.com/shanika97/photograpy-website'
   },
   {
     title: 'Employee Management System',
