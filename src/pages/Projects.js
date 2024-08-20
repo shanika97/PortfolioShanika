@@ -16,7 +16,7 @@ const projects = [
     title: 'Portfolio',
     description: 'Developed a Protfolio website.',
     technologies: 'React,js',
-    image: '/PortfolioShanika/images/portfolio.PNG',
+    image: '/PortfolioShanika/images/portfolio.png',
     github: 'https://shanika97.github.io/PortfolioShanika/'
   },
 
