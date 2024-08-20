@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Shanika-my-portfolioio/static/css/main.fc8a92eb.css",
-    "main.js": "/Shanika-my-portfolioio/static/js/main.78ee5e93.js",
-    "static/js/453.acca0757.chunk.js": "/Shanika-my-portfolioio/static/js/453.acca0757.chunk.js",
-    "static/media/profile.jpg": "/Shanika-my-portfolioio/static/media/profile.f44f4ae43b912573d833.jpg",
-    "index.html": "/Shanika-my-portfolioio/index.html",
-    "main.fc8a92eb.css.map": "/Shanika-my-portfolioio/static/css/main.fc8a92eb.css.map",
-    "main.78ee5e93.js.map": "/Shanika-my-portfolioio/static/js/main.78ee5e93.js.map",
-    "453.acca0757.chunk.js.map": "/Shanika-my-portfolioio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/PortfolioShanika/static/css/main.fc8a92eb.css",
+    "main.js": "/PortfolioShanika/static/js/main.ff27cc18.js",
+    "static/js/453.acca0757.chunk.js": "/PortfolioShanika/static/js/453.acca0757.chunk.js",
+    "static/media/profile.jpg": "/PortfolioShanika/static/media/profile.f44f4ae43b912573d833.jpg",
+    "index.html": "/PortfolioShanika/index.html",
+    "main.fc8a92eb.css.map": "/PortfolioShanika/static/css/main.fc8a92eb.css.map",
+    "main.ff27cc18.js.map": "/PortfolioShanika/static/js/main.ff27cc18.js.map",
+    "453.acca0757.chunk.js.map": "/PortfolioShanika/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc8a92eb.css",
-    "static/js/main.78ee5e93.js"
+    "static/js/main.ff27cc18.js"
   ]
 }
