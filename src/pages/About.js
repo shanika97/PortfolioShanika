@@ -25,7 +25,7 @@ const About = () => {
             <p style={styles.profileText}>
               I am a dynamic and enthusiastic IT professional with a robust foundation in full-stack development and a proven track record in problem-solving and project management. With hands-on experience and a comprehensive educational background in IT, I excel in team settings and adapt swiftly to changing environments. I am committed to continuous improvement and eager to contribute to and grow within a forward-thinking organization.
             </p>
-            <a href="https://drive.google.com/file/d/1KIo-7Kh9ckeAppZX-YK-_NSlYBZjz4r6/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style={styles.downloadButton}>
+            <a href="https://drive.google.com/file/d/1oNN8Ndif6zyfS7xJQeNsbfhDKfokQ39v/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style={styles.downloadButton}>
              
               <FaDownload style={styles.downloadIcon} /> Download My CV
             </a>
