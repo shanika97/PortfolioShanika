@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PortfolioShanika/static/css/main.30cb604d.css",
-    "main.js": "/PortfolioShanika/static/js/main.47269d23.js",
+    "main.js": "/PortfolioShanika/static/js/main.0ad4b6e5.js",
     "static/js/453.acca0757.chunk.js": "/PortfolioShanika/static/js/453.acca0757.chunk.js",
     "static/media/profile.jpg": "/PortfolioShanika/static/media/profile.f44f4ae43b912573d833.jpg",
     "index.html": "/PortfolioShanika/index.html",
     "main.30cb604d.css.map": "/PortfolioShanika/static/css/main.30cb604d.css.map",
-    "main.47269d23.js.map": "/PortfolioShanika/static/js/main.47269d23.js.map",
+    "main.0ad4b6e5.js.map": "/PortfolioShanika/static/js/main.0ad4b6e5.js.map",
     "453.acca0757.chunk.js.map": "/PortfolioShanika/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30cb604d.css",
-    "static/js/main.47269d23.js"
+    "static/js/main.0ad4b6e5.js"
   ]
 }
